@@ -48,7 +48,7 @@
 
 ### 1. 단독 실행 파일(EXE) 다운로드 및 실행 (권장)
 
-* **Windows 환경 사용자**는 Python 설치 없이 [Releases 페이지](https://github.com/당신의계정/Python-Face-Physiognomy-Analysis/releases)에서 최신 버전의 **`face.exe`** 파일을 다운로드하여 바로 실행할 수 있습니다.
+* **Windows 환경 사용자**는 Python 설치 없이 [Releases 페이지](https://github.com/KS0721/Python-Face-Physiognomy-Analysis/releases)에서 최신 버전의 **`face.exe`** 파일을 다운로드하여 바로 실행할 수 있습니다.
 
 ### 2. 개발 환경에서 직접 실행
 
