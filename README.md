@@ -50,4 +50,4 @@
 
 ```bash
 # 가상 환경 활성화 후 실행 (권장)
-pip install opencv-python mediapipe numpy Pillow
+pip install -r requirements.txt
