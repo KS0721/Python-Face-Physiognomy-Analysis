@@ -49,7 +49,6 @@
 ### 1. 전용 설치 파일(Installer EXE) 다운로드 및 실행 (권장)
 
 * **Windows 환경 사용자**는 Python 설치 없이 [Releases 페이지](https://github.com/KS0721/Python-Face-Physiognomy-Analysis/releases)에서 최신 버전의 **`FaceAnalyzerSetup.exe`** 파일을 다운로드하여 설치합니다.
-    * **참고:** 이 설치 파일은 프로그램 실행에 필요한 **Visual C++ 런타임** 및 **내부 DLL** 경로 문제를 자동으로 해결하고 설치를 완료합니다.
 * 설치 완료 후 바탕 화면의 바로 가기를 이용하거나 설치 폴더 내의 `face.exe`를 실행합니다.
 
 ### 2. 개발 환경에서 직접 실행
