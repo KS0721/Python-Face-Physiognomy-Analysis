@@ -44,20 +44,22 @@
 
 ---
 
-## 🚀 프로젝트 실행 방법
+## 🚀 프로젝트 실행 방법 (수정된 섹션)
 
-### 1. 단독 실행 파일(EXE) 다운로드 및 실행 (권장)
+### 1. 전용 설치 파일(Installer EXE) 다운로드 및 실행 (권장)
 
-* **Windows 환경 사용자**는 Python 설치 없이 [Releases 페이지](https://github.com/KS0721/Python-Face-Physiognomy-Analysis/releases)에서 최신 버전의 **`face.exe`** 파일을 다운로드하여 바로 실행할 수 있습니다.
+* **Windows 환경 사용자**는 Python 설치 없이 [Releases 페이지](https://github.com/KS0721/Python-Face-Physiognomy-Analysis/releases)에서 최신 버전의 **`FaceAnalyzerSetup.exe`** 파일을 다운로드하여 설치합니다.
+    * **참고:** 이 설치 파일은 프로그램 실행에 필요한 **Visual C++ 런타임** 및 **내부 DLL** 경로 문제를 자동으로 해결하고 설치를 완료합니다.
+* 설치 완료 후 바탕 화면의 바로 가기를 이용하거나 설치 폴더 내의 `face.exe`를 실행합니다.
 
 ### 2. 개발 환경에서 직접 실행
 
 * **A. 필요 라이브러리 설치:**
-    ```bash
-    # 가상 환경 활성화 후 실행 (권장)
-    pip install -r requirements.txt
-    ```
+    ```bash
+    # 가상 환경 활성화 후 실행 (권장)
+    pip install -r requirements.txt
+    ```
 * **B. 애플리케이션 실행:**
-    ```bash
-    python face.py
-    ```
+    ```bash
+    python face.py
+    ```
