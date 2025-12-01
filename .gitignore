@@ -1,0 +1,19 @@
+# PyInstaller 빌드 결과물 (GitHub에 올리지 말아야 할 파일)
+dist/
+build/
+*.spec
+*.exe
+
+# 파이썬 환경 및 캐시 (개인 환경 파일)
+venv/
+.venv/
+env/
+__pycache__/
+*.pyc
+
+# 민감 정보 및 로컬 설정 파일
+.env
+config.json
+.DS_Store
+Thumbs.db
+.vscode/
