@@ -54,11 +54,12 @@
 ### 2. 개발 환경에서 직접 실행
 
 * **A. 필요 라이브러리 설치:**
-    ```bash
-    # 가상 환경 활성화 후 실행 (권장)
-    pip install -r requirements.txt
-    ```
+    ```bash
+    # 가상 환경 활성화 후 실행 (권장)
+    pip install -r requirements.txt
+    ```
+    
 * **B. 애플리케이션 실행:**
-    ```bash
-    python face.py
-    ```
+    ```bash
+    python face.py
+    ```
